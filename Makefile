@@ -1,2 +1,2 @@
 release:
-	bash ../mercadona.online.devtools/release.sh
+	bash ../mercadona.online.devtools/release.sh $(versionLabel)
