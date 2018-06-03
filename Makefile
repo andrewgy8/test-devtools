@@ -1,2 +1,2 @@
-release:
-	bash ../mercadona.online.devtools/release.sh $(version)
+tag:
+	bash ../mercadona.online.devtools/tag.sh $(version)
